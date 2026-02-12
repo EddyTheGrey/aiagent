@@ -8,4 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
-gemeni_api.env
+.env
